@@ -18,6 +18,11 @@ Building and monetizing media brands on **TikTok · Instagram · YouTube · Face
 - Building an AI-powered production pipeline (generation, editing, automation)
 - Goal: stable passive income through social media monetization
 
+### 🤝 Work With Me
+
+Open to brand collaborations, sponsorships, and AI-video production work.
+📩 Reach out via [X](https://x.com/KryptoatomAI) or [LinkedIn](https://www.linkedin.com/in/romansierov/)
+
 ### 📱 Find me
 
 [![X](https://img.shields.io/badge/X-@KryptoatomAI-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KryptoatomAI)
@@ -29,8 +34,16 @@ Building and monetizing media brands on **TikTok · Instagram · YouTube · Face
 
 ---
 
+### 📝 Latest from Substack
+
+[Read my latest article →](https://kryptoatomai.substack.com)
+
+---
+
 ### 📊 Profile Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=KryptoatomUkr&color=blueviolet&style=for-the-badge)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=KryptoatomUkr&theme=radical&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=KryptoatomUkr&theme=radical&no-frame=true&row=1&column=6)
